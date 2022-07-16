@@ -1,0 +1,55 @@
+[
+  {
+    "id": 0,
+    "from": "Bart",
+    "text": "Welcome to CYF chat system!"
+  },
+  {
+    "from": "vanessa",
+    "text": "Welcome to CYF chat system!",
+    "timeSet": "2022-07-13T17:07:13.279Z",
+    "id": 1
+  },
+  {
+    "from": "vane",
+    "text": "Welcome to CYF chat system!",
+    "timeSet": "2022-07-13T17:07:48.768Z",
+    "id": 2
+  },
+  {
+    "from": "Yhenifer Pulido",
+    "text": "Welcome System!",
+    "timeSet": "2022-07-16T13:57:26.028Z",
+    "id": 3
+  },
+  {
+    "from": "Yhenifer Pulido",
+    "text": "Welcome System!",
+    "timeSet": "2022-07-16T14:40:39.424Z",
+    "id": 4
+  },
+  {
+    "from": "Diego",
+    "text": "Plataforma",
+    "timeSet": "2022-07-16T14:41:17.918Z",
+    "id": 5
+  },
+  {
+    "from": "Eduard",
+    "text": "Node",
+    "timeSet": "2022-07-16T14:41:36.123Z",
+    "id": 6
+  },
+  {
+    "from": "Pony",
+    "text": "Node",
+    "timeSet": "2022-07-16T14:43:10.202Z",
+    "id": 7
+  },
+  {
+    "from": "Rocio ",
+    "text": "Te Amo",
+    "timeSet": "2022-07-16T14:43:50.126Z",
+    "id": 8
+  }
+]
